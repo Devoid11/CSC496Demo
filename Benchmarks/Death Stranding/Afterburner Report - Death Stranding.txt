@@ -1,0 +1,6 @@
+10-02-2021, 13:30:08 ds.exe benchmark completed, 3569 frames rendered in 56.438 s
+                     Average framerate  :   63.2 FPS
+                     Minimum framerate  :    0.9 FPS
+                     Maximum framerate  :   75.8 FPS
+                     1% low framerate   :    0.9 FPS
+                     0.1% low framerate :    0.9 FPS

@@ -1,0 +1,6 @@
+10-02-2021, 13:56:22 bg3.exe benchmark completed, 1828 frames rendered in 23.031 s
+                     Average framerate  :   79.3 FPS
+                     Minimum framerate  :   52.2 FPS
+                     Maximum framerate  :   98.9 FPS
+                     1% low framerate   :   35.1 FPS
+                     0.1% low framerate :   12.5 FPS
