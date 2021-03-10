@@ -1,0 +1,1 @@
+Please change directory cbfolder to directory with cinebench, and place both scripts in same directoy
